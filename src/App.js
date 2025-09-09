@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Auth from "./components/Auth";   // ✅ use new Auth component
+import Auth from "./components/Auth";   
 import AddExpense from "./components/AddExpense";
 import SetBudget from "./components/SetBudget";
 import Analytics from "./components/Analytics";
